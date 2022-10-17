@@ -1,4 +1,5 @@
 # Computer-Vision--DCGAN
+![Alt Text](DCGAN_OUTPUT.png)
 
 GANS are designed to create realistic-looking images. It consists of a generator and a discriminator network. The generator network would try to create realistic-looking images from random noise. The duty of the discriminator is pretty simple. All it has to do is to verify if an image is real or fake.
 
